@@ -5,6 +5,10 @@ body {
   margin: 0;
 }
 
+.copyright {
+  text-align: center;
+}
+
 .game-wrapper>div {
   background: #7d7d7d;
   height: 60px;
